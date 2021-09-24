@@ -12,6 +12,13 @@ Index:
 > My favourite programming language is java\
 ```System.out.println("Hello World");```\
 >My favourite website is [YouTube](https://www.youtube.com).\
+> Some of the countries that I visited and want to visit are these :
+- [x] India
+- [x] Germany
+- [x] UK
+- [x] USA
+- [ ] Italy
+- [ ] Spain   
 
 
 ### Skills:
