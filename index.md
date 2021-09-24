@@ -1,8 +1,9 @@
 ## Raghav Cherukuru
 ###### *Computer Science Major at UCSD*
 
+[about me](#aboutme)
 
-> About Me: 
+> <a name="aboutme"></a> About Me: 
 Hi! My name is Raghav. I am an international transfer student and this my final year at UCSD. In my free time I like to workout, spend time with friends and family, and play video games.
 My favourite programming language is java\
 ```System.out.println("Hello World");```\
