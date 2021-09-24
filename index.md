@@ -1,2 +1,2 @@
 ## Raghav Cherukuru
-###### Computer Science Major at UCSD
+###### *Computer Science Major at UCSD*
