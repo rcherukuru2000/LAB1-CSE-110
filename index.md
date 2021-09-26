@@ -5,7 +5,7 @@ Table of Contents:
 - [About Me](#aboutme)
 - [Skills](#skills)
 - [Picture of Me](#picture)
-- [README](#readme)
+- [README](#read)
 
 ### About Me: <a name="aboutme"></a>
 > Hi! My name is Raghav. I am an international transfer student and this my final year at UCSD. In my free time I like to workout, spend time with friends and family, and play video games.
@@ -32,7 +32,7 @@ Some of the countries that I visited and want to visit are these :
 ![This is ME](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/117768535_3122679881163150_6585900432336605953_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DQJdb05LwloAX_ZMCSM&_nc_ht=scontent-lax3-2.xx&oh=a96a7c35b5002f227f2f530582cf574f&oe=617645ED)
 
 
-### README 
+### README <a name="read"></a>
  The README file for this Lab is [HERE](README.md)
 
 
