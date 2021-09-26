@@ -29,7 +29,7 @@ Some of the countries that I visited and want to visit are these :
 
 
 ### Picture of Me: <a name="picture"></a>
-![This is ME](https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/117768535_3122679881163150_6585900432336605953_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=DQJdb05LwloAX_ZMCSM&_nc_ht=scontent-lax3-2.xx&oh=a96a7c35b5002f227f2f530582cf574f&oe=617645ED)
+![This is ME](/assets/raghav.jpeg)
 
 
 ### README <a name="read"></a>
